@@ -1,0 +1,5 @@
+__pycache__/
+.venv/
+test_plots/
+test_report.html
+forecast.png
